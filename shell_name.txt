@@ -1,5 +1,16 @@
 /x.php
 /e.php
+/rxr.php
+/alfa-rex.php
+/281200.php
+/ghost287.php
+/.asdman.php
+/csv.php
+/33.php
+/22.php
+/11.php
+/00.php
+/000.php
 /0.php
 /1.php
 /2.php
@@ -81,7 +92,6 @@
 /wp-hactoz.php
 /wp-xaqrar.php
 /fierzashell.php
-/ghost287.php
 /glass.php
 /links.php
 /store.php
@@ -109,7 +119,6 @@
 /test.php
 /syd.php
 /shell-script.php
-/alfa-rex.php
 /alfa-rex.php7
 /inputs.php
 /18771.php
@@ -128,7 +137,6 @@
 /xmx.php
 /url.php
 /cron.php
-/000.php
 /priv2.php
 /ssTest.php
 /h2.php
@@ -152,7 +160,6 @@
 /css.php
 /cobra.php
 /newltter.php
-/11.php
 /12.php
 /123.php
 /098.php
@@ -312,7 +319,6 @@
 /robots.php
 /root.php
 /rss.php
-/rxr.php
 /scarbook.php
 /sendemail.php
 /send.php
