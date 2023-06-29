@@ -13,6 +13,18 @@
 /000.php
 /0.php
 /1.php
+/senpai.php
+/2002.php
+/wp-aa.php
+/wp-logs.php
+/geli.php
+/wp-add-admin.php
+/87.php
+/indosec.php
+/alfa-rex.php5
+/alfa-rex.php7
+/alfa-rex.php8
+/alfa-rex.php56
 /2.php
 /3.php
 /4.php
@@ -58,7 +70,6 @@
 /41.php
 /wi.php
 /ws.php
-/87.php
 /13.php
 /cp.php
 /bb.php
@@ -119,7 +130,6 @@
 /test.php
 /syd.php
 /shell-script.php
-/alfa-rex.php7
 /inputs.php
 /18771.php
 /1877.php
@@ -448,7 +458,6 @@
 /fuck.php
 /wp-god.php
 /wp-pururin.php
-/wp-logs.php
 /xdx.php
 /lyda.php
 /fot.php
@@ -499,7 +508,6 @@
 /wso112233.php
 /and.php
 /egu.php
-/wp-aa.php
 /masx.php
 /boot.php
 /love.php
