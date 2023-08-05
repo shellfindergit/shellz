@@ -5,6 +5,14 @@
 /281200.php
 /ghost287.php
 /.asdman.php
+/v3n0m.php
+/BDKR28.php
+/log.php
+/readme.php
+/error_log.php
+/Al.php
+/ai.php
+/repeater.php
 /csv.php
 /33.php
 /22.php
@@ -540,7 +548,6 @@
 /.seo.php
 /.wp-themes.php
 /psm.php
-/repeater.php
 /sell.php
 /sts.php
 /tilemx.php
